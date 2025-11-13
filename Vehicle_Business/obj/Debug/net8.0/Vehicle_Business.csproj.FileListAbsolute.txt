@@ -1,0 +1,17 @@
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\bin\Debug\net8.0\Vehicle_Business.deps.json
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\bin\Debug\net8.0\Vehicle_Business.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\bin\Debug\net8.0\Vehicle_Business.pdb
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\bin\Debug\net8.0\DTO.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\bin\Debug\net8.0\DTO.pdb
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_Business.csproj.AssemblyReference.cache
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_Business.AssemblyInfoInputs.cache
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_Business.AssemblyInfo.cs
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_Business.csproj.CoreCompileInputs.cache
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_.77ED320F.Up2Date
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_Business.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\refint\Vehicle_Business.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\Vehicle_Business.pdb
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\obj\Debug\net8.0\ref\Vehicle_Business.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\bin\Debug\net8.0\Vehicle_Access.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Business\bin\Debug\net8.0\Vehicle_Access.pdb

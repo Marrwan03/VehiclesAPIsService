@@ -1,0 +1,15 @@
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\bin\Debug\net8.0\Vehicle_Access.deps.json
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\bin\Debug\net8.0\Vehicle_Access.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\bin\Debug\net8.0\Vehicle_Access.pdb
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\bin\Debug\net8.0\DTO.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\bin\Debug\net8.0\DTO.pdb
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_Access.csproj.AssemblyReference.cache
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_Access.AssemblyInfoInputs.cache
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_Access.AssemblyInfo.cs
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_Access.csproj.CoreCompileInputs.cache
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_.768B5F84.Up2Date
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_Access.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\refint\Vehicle_Access.dll
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\Vehicle_Access.pdb
+C:\Users\tlood\source\repos\VehicleAPIsService\Vehicle_Access\obj\Debug\net8.0\ref\Vehicle_Access.dll
